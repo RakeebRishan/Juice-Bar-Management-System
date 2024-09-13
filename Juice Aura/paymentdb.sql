@@ -1,0 +1,1 @@
+SELECT * FROM paymentdb.item_details;

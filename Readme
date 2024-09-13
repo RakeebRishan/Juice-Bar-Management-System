@@ -1,0 +1,24 @@
+# Juice Product Management System
+
+## Description
+Juice Product Management System is a web application for managing juice products, categories, and payments, and administrators to manage inventory and user accounts.
+
+## Features
+- User registration and login
+- Product browsing and management
+- Category management
+- Payment processing
+
+## Installation
+
+### Prerequisites
+- Java 17
+- Node.js
+- Maven
+
+# Group 09
+
+MAHNDSE24.1F-018
+MAHNDSE24.1F-029
+MAHNDSE24.1F-026
+MAHNDSE24.1F-027
